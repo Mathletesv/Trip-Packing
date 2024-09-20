@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784042845836",
+    "project_id": "trip-packing",
+    "storage_bucket": "trip-packing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784042845836:android:db598b8b630e44fe6b7da9",
+        "android_client_info": {
+          "package_name": "com.example.trippacking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbh44H_SSJqHn6TJKBqV6O5loAeEYhd-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
