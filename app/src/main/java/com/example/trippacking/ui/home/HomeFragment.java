@@ -118,7 +118,7 @@ public class HomeFragment extends Fragment {
     }
 
     void generateAIList(String name, int people, String description) {
-        String apiKey = "AIzaSyBGE-TeifdmjkPN3oEZPc0lwEq2Q0flJls";
+        String apiKey = "key";
 
         GenerativeModel gm = new GenerativeModel("gemini-1.5-flash", apiKey);
 
